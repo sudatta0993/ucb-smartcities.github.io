@@ -1,0 +1,3 @@
+name: Smart Cties Research, UC Berkeley
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
