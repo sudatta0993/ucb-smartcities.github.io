@@ -1,3 +1,3 @@
-# Smartcities Research
+# Smart Cities Research
 
 ## Research Projects
